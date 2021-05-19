@@ -48,7 +48,7 @@ body {
 .bookmarks {
   display: flex;
   flex-direction: column;
-  border-radius: none;
+  border-radius: 1rem;
   align-items: center;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -132,6 +132,7 @@ li {
   font-size: 16px;
   list-style-type: none;
   padding: 5px;
+  margin: 0.5rem 0;
 }
 
 a:link {
